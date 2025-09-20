@@ -1,7 +1,7 @@
 ## Ryan Fernandes Bertaglia
 Desenvolvedor de Software focado em soluções eficientes e de alta qualidade. Buscando resolver problemas complexos através de código com soluções inovadoras e eficazes.
 <details>
-  <summary> *Cliquer para ver minhas linguagens mais usadas*</summary>
+  <summary> * Cliquer para ver minhas linguagens mais usadas *</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFBertaglia"/>
 </details>
 
