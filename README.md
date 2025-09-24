@@ -45,7 +45,4 @@ Buscando resolver problemas complexos através de código com soluções inovado
   <a href="https://www.linkedin.com/in/ryan-fernandes-bertaglia-943aa6302" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="50" width="50"/>
   </a>
-  <a href="https://t.me/hud0shnik" target="_blank">
-    <img src="https://img.icons8.com/color/96/telegram-app--v1.png" height="50" width="50"/>
-  </a>
 </p>
