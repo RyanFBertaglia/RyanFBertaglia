@@ -5,12 +5,7 @@ Desenvolvedor de Software focado em soluções eficientes e de alta qualidade.<b
 Buscando resolver problemas complexos através de código com soluções inovadoras e eficazes.
 </p>
 
----
 
-<details>
-  <summary>📊 Clique para ver minhas linguagens mais usadas</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFBertaglia"/>
-</details>
 
 ---
 
@@ -32,6 +27,13 @@ Buscando resolver problemas complexos através de código com soluções inovado
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="35"/>
 
 </p>
+
+---
+
+<details>
+  <summary><h2>📊 Clique para ver minhas linguagens mais usadas</h2></summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFBertaglia"/>
+</details>
 
 ---
 
